@@ -1,2 +1,2 @@
-helloworld https://github.com/cpmlist/helloworld.git
-clist https://github.com/cpmlist/clist.git
+helloworld https://github.com/cpmlist/helloworld
+clist https://github.com/cpmlist/clist

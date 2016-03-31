@@ -1,1 +1,1 @@
-helloworld.h https://github.com/cpmlist/helloworld.git
+helloworld https://github.com/cpmlist/helloworld.git
